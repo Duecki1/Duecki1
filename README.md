@@ -1,10 +1,5 @@
 <!-- Start of your profile README -->
 <h1 align="center">Hi, I'm Duecki1</h1>
-<p align="center">
-    Welcome to my GitHub profile! I enjoy building cool stuff, learning new tech, and solving problems.
-</p>
-
----
 
 <h2 align="center">About Me</h2>
 <ul style="line-height: 1.8;">
@@ -13,8 +8,6 @@
     <li>By day, I work with PHP and TYPO3, building functional and scalable solutions.</li>
     <li>Lately, I’ve been diving into Rust and React, sharpening my developer skill set.</li>
 </ul>
-
----
 
 <h2 align="center">Skills</h2>
 <h3 align="center">Programming Languages</h3>
