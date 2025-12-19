@@ -1,7 +1,7 @@
 <!-- Start of your profile README -->
-<h1 align="center">Hi, I'm Duecki1</h1>
+<h1 align="center">Welcome/h1>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">I'm Linus</h2>
 <ul style="line-height: 1.8;">
     <li>I create Unity games in C# and build Android apps with Kotlin in my free time.</li>
     <li>I love photography and enjoy working on tools that make life easier for photographers.</li>
@@ -9,7 +9,7 @@
     <li>Lately, I’ve been diving into Rust and React, sharpening my developer skill set.</li>
 </ul>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">My Skills</h2>
 <h3 align="center">Programming Languages</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=white&style=flat-square" alt="C#">
