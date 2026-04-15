@@ -5,7 +5,7 @@
 <ul style="line-height: 1.8;">
     <li>I started creating Unity games in C# when I was 12</li>
     <li>I'm learning Android App Development using Kotlin and Compose</li>
-    <li>I work with php for Typo3 everyday</li>
+    <li>I worked with PHP for Typo3</li>
     <li>Interested in learning rust</li>
 </ul>
 
